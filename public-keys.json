@@ -1,0 +1,23 @@
+{
+  "catalogCurrent": {
+    "kty": "EC",
+    "crv": "P-256",
+    "x": "Dq8IVniN6XAfPtyakOhuKD0cWtSu-5c3LpbuZhEyvpU",
+    "y": "F5zYxKMNekDXOB6g9hW1HBQBEWE5JFedD6s3dHrAD9Y"
+  },
+  "catalogFallback": {
+    "kty": "EC",
+    "crv": "P-256",
+    "x": "uiLvyIb6RnMt1w0U5h1Db5AnBYvrabNcuuYaHRCBfOc",
+    "y": "bVbepYlNpoVe7ijwh00YfFQDEqaDZQUS7adAu1hLofo"
+  },
+  "packageSign": {
+    "kty": "EC",
+    "crv": "P-256",
+    "x": "VJjel7Ph6c-dOlgsp-400eg9rtREg4oQRierBDRlIIk",
+    "y": "X7i1brJysjNxqKGCgYJ03729wg6xgszo_jho02d_fSA"
+  },
+  "curve": "P-256",
+  "generatedAt": "2026-09-30T03:56:34.051Z",
+  "note": "Public keys are embedded in FlowForge main.js. Private keys stay offline and never ship."
+}

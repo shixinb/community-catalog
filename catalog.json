@@ -1,0 +1,43 @@
+{
+  "catalogVersion": 1,
+  "generatedAt": "2026-09-30T04:01:30.386Z",
+  "catalog": {
+    "schema": "flowforge/catalog/v1",
+    "entries": [
+      {
+        "id": "ff-tpl-text-to-video",
+        "name": "文生视频（社区精选）",
+        "type": "template",
+        "author": "FlowForge 社区",
+        "version": "1.0.0",
+        "minAppVersion": "2.6.92",
+        "category": "视频",
+        "description": "单个文生视频节点，预填万能出片骨架，替换主体/场景/运镜即可生成。",
+        "permissions": [],
+        "sha256": "03a36d4259f789e4d564056d1239a634f6360f5c927a6a2810cf78e544b1d589",
+        "signature": "vjBSoCwIushmS07yYMENCRcuRV8EcjrMlm8dr4bl+j9WN43BCglKaUFPJ+kBXOslrYld3+QOrIR98T6LwBSu1g==",
+        "downloads": [
+          "packages/ff-tpl-text-to-video-1.0.0.zip"
+        ]
+      },
+      {
+        "id": "ff-tpl-multi-reference",
+        "name": "多图全能参考",
+        "type": "template",
+        "author": "FlowForge 社区",
+        "version": "1.0.0",
+        "minAppVersion": "2.6.92",
+        "category": "视频",
+        "description": "图1锁人物形象、图2给服装道具、图3给场景风格，全能参考生视频。",
+        "permissions": [],
+        "sha256": "17082c294f458f0e455f126ebf9929ca76ab16ebaf6e88429c2a22c19b7b5f06",
+        "signature": "e2hfdTjJdv3sATWcgZZKnlvlwxkXd2084FOrZbrEy5KFoqRWGjMWJWplyktJvV099GDZBA4v7IzupJ9my8n18Q==",
+        "downloads": [
+          "packages/ff-tpl-multi-reference-1.0.0.zip"
+        ]
+      }
+    ],
+    "revocations": []
+  },
+  "signature": "0XX8ril07uhmDWmfcDimsaC7pfwJ54s4hOhXP77gdEUxHa51Y+VQMEko9cHULmn03+uh1Fsmy+QakMsWSVyyyA=="
+}
