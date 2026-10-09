@@ -16,6 +16,6 @@ FlowForge 官方社区扩展目录（签名 catalog）。FlowForge 客户端从�
 
 ## 镜像
 - GitHub（国际）：`https://raw.githubusercontent.com/shixinb/community-catalog/main/`
-- 魔搭 ModelScope（国内）：`https://www.modelscope.cn/api/v1/datasets/zbbs2026/community-catalog/repo?Revision=master&FilePath=`
+- 魔搭 ModelScope（国内）：`https://www.modelscope.cn/api/v1/datasets/zbbs2026/flowforge-community/repo?Revision=master&FilePath=`
 
 同包同签名，两处内容一致。
